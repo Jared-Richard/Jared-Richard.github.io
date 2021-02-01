@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Posts
 ---
 
 This page will show my recent projects.
