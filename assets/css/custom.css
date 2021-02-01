@@ -11,7 +11,8 @@ a {
 
 .sidebar {
   font-family: 'Avenir Next', Avenir, 'Helvetica Neue';
-  box-shadow: 10px 0px 10px 10px #000000;
+  background-color: #28282a;
+  box-shadow: 10px 0px 10px 10px #ffffff;
 }
 
 .main-title {
