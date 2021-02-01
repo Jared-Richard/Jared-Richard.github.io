@@ -1,9 +1,30 @@
 body {
   font-family: 'Avenir Next', Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
   background-color: #292c30;
-  color: #cecece
+  color: #b1b1b1;
+  font-weight: 250;
 }
 
 a {
-  color: #5c5edc;
+  color: #2771ff;
+}
+
+.sidebar {
+  font-family: 'Avenir Next', Avenir, 'Helvetica Neue';
+  background-color: #28282a;
+}
+
+.main-title {
+  font-family: 'Avenir Next', Avenir, 'Helvetica Neue';
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #e1e1df;
+}
+
+.lead a {
+  color: #0057ff;
+}
+
+.name:hover {
+  color: #CFCFCF;
 }

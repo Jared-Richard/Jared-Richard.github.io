@@ -1,28 +1,29 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://jared-richard.github.io
-baseurl:          /
+title:            Quantus
+tagline:          By Jared Richard
+description:      A site by <a href="www.linkedin.com/in/jared-richard">Jared Richard</a>
+url:              http://Jared-Richard.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           Jared Richard
+  url:           
 
 paginate:         5
 
-plugins_dir: 
-  - jekyll-paginate
-
+# Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - redcarpet
