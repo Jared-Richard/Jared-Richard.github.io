@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Quantus
 tagline:          By Jared Richard
 description:      A site by <a href="www.linkedin.com/in/jared-richard">Jared Richard</a>
-url:              http://jaredrichard.co.uk
+url:              https://jaredrichard.co.uk
 baseurl:          ''
 
 author:
@@ -22,7 +22,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/
+  repo:           https://github.com/Jared-Richard
 
 plugins:
   - jekyll-paginate
