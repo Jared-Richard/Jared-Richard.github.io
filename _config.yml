@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Quantus
 tagline:          By Jared Richard
-description:      A site by <a href="www.linkedin.com/in/jared-richard">Jared Richard</a>
+description:      A site by <a href="https://www.linkedin.com/in/jared-richard/" target="_blank">Jared Richard</a>
 url:              https://jaredrichard.co.uk
 baseurl:          ''
 
