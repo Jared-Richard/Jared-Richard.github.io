@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Interstellar' and The Information Paradox
+title: "Interstellar" and The Information Paradox
 ---
 
-11th March 2021 I gave a presentation entitled "'Interstellar' and The Information Paradox" to my fellow students and tutors as part of the 2nd Year Physics Presentations, a requirement in the Oxford Physics degree course. This talk was greatly received and I was thankfully awarded First Prize for it.
+Today I gave a presentation entitled "'Interstellar' and The Information Paradox" to my fellow students and tutors as part of the 2nd Year Physics Presentations, a requirement in the Oxford Physics degree course. This talk was greatly received and I was thankfully awarded First Prize for it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iPsFOTikhJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
