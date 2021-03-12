@@ -13,9 +13,9 @@ The talk is an exploration into Christopher Nolan's 2015 blockbuster 'Interstell
 
 In the film we see reference to information being extracted from a black hole. This is actually quite a famous paradox in Physics, namely 'The Information Paradox' and was birthed from Stephen Hawking's revolutionary ideas about Black Holes and Quantum Mechanics in 1974.
 
-He showed black holes 'evaporate' and shrink over time down to nothing. The problem lies in the fact nothing can leave a black hole once it has entered, so if an object fell in, the black hole shrinks and disappears, then the information of the object would be lost?
+He showed that black holes 'evaporate' and shrink over time down to nothing. The problem lies in the fact nothing can leave a black hole once it has entered, so if an object fell in, the black hole shrinks and disappears, then the information of the object would be lost?
 
-This wouldn't be problem, apart from the fact that once of the most fundamental ideas in Physics is information can never be destroyed.
+This wouldn't be problem, apart from the fact that one of the most fundamental tenets in quantum physics, and physics in general, is that information can never be destroyed.
 
 A potential solution was presented by Leonard Susskind and Gerard T'Hooft called 'Black Hole Complementarity' in which they say the inside and the outside of a black hole are 2 completely different situations, so we can treat them separately.
 
