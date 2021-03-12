@@ -7,7 +7,7 @@ Today I gave a presentation entitled "'Interstellar' and The Information Paradox
 
 Here is a recording of my presentation:
 
-{% include youtubePlayer.html id="iPsFOTikhJc"}
+{% include youtubePlayer.html id="iPsFOTikhJc" %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iPsFOTikhJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
