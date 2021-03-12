@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post Archive
+title: Archive
 ---
 
 This page will be an archive of all my posts.

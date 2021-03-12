@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "Interstellar" and The Information Paradox
+title: Interstellar and The Information Paradox
 ---
 
-Today I gave a presentation entitled "'Interstellar' and The Information Paradox" to my fellow students and tutors as part of the 2nd Year Physics Presentations, a requirement in the Oxford Physics degree course. This talk was greatly received and I was thankfully awarded First Prize for it.
+Today I gave a presentation entitled <em>'Interstellar' and The Information Paradox</em> to my fellow students and tutors as part of the 2nd Year Physics Presentations, a requirement in the Oxford Physics degree course. This talk was greatly received and I was thankfully awarded First Prize for it.
 
 Here is a recording of my presentation:
 
 {% include youtubePlayer.html id="iPsFOTikhJc" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPsFOTikhJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-The talk is an exploration into Christopher Nolan's 2015 blockbuster 'Interstellar', but more importantly the questions it throws up about modern physics.
+The talk is an exploration into Christopher Nolan's 2015 blockbuster <em>Interstellar</em>Interstellar, but more importantly the questions it throws up about modern physics.
 
 In the film we see reference to information being extracted from a black hole. This is actually quite a famous paradox in Physics, namely 'The Information Paradox' and was birthed from Stephen Hawking's revolutionary ideas about Black Holes and Quantum Mechanics in 1974.
 
