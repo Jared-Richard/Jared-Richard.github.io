@@ -3,11 +3,12 @@ layout: post
 title: The 'Interstellar' Information Paradox
 ---
 
-Today I gave a presentation entitled <em>'Interstellar' and The Information Paradox</em> to my fellow students and tutors as part of the 2nd Year Physics Presentations, a requirement in the Oxford Physics degree course. This talk was greatly received and I was thankfully awarded First Prize for it.
+A presentation entitled <em>'Interstellar' and The Information Paradox</em> to my fellow students/tutors as part of the 2nd Year Physics Presentations (a requirement in the Oxford Physics degree course). This talk was greatly received and I was thankfully awarded First Prize for it.
 
-Here is a recording of my presentation:
-
+My presentation:
 {% include youtubePlayer.html id="iPsFOTikhJc" %}
+
+<!-- more -->
 
 The talk is an exploration into Christopher Nolan's 2015 blockbuster <em>Interstellar</em>Interstellar, but more importantly the questions it throws up about modern physics.
 
