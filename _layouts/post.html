@@ -2,10 +2,16 @@
 layout: default
 ---
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
+<div class="metadata">
+  <span style="display: inline" class="post-date" title="Estimated read time">
+    {{ post.date | date_to_string }} &middot; 
+     {% assign words = post.content | number_of_words %}{{ words | divided_by:200 | at_most:25 }} min read
+  </span>
+ &emsp;
+  <span style="display: inline">[
+     {% capture category_name %}{{ post.category }}{% endcapture %}
+     <a href="/category/{{ category_name }}">{{ category_name }}</a> ]
+  </span>
 </div>
 
 <div class="related">
