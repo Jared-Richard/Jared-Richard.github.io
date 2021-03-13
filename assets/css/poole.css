@@ -338,6 +338,7 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #b4a217;
+  text-align: left;
 }
 .page-title,
 .post-title {
