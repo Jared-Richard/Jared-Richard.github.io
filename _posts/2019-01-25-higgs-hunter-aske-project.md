@@ -7,7 +7,9 @@ At age 16, I completed a 6-month independent research project into the potential
 
 Here is my thesis:
 
-My speech at the annual <em>Aske Project Celebration Assembly</em> can be viewed below:
+My speech at the annual <em>Aske Project Celebration Assembly</em>:
+
+{% include youtubePlayer.html id="LaTdSEJ27x0" %}
 
 Before presenting my project at the celebration assembly, I sat a viva examination with an external Physics professor to discuss the scope of my project. Below are his comments:
 
