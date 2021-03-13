@@ -1,5 +1,5 @@
 ---
 layout: category
 title: "Category: Physics"
-category: physics
+category: Physics
 ---
