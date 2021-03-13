@@ -3,9 +3,9 @@ layout: post
 title: Tuesdays with Morrie
 ---
 
-“Tuesdays with Morrie” is a short book describing how Mitch Albom’s relationship with Morris Schwartz develops during his final 6 months battling the AlS disease.
+“Tuesdays with Morrie” is a short book describing how Mitch Albom’s relationship with Morris Schwartz develops during his final 6 months battling the AlS disease. We are taken on a journey with these two characters as Morrie suffers through ALS aged 78, causing him to reflect on his life and the meaning of death, whilst imparting wisdom and advice to his younger friend Mitch.
 
-We are taken on a journey with these two characters as Morrie suffers through ALS aged 78, causing him to reflect on his life and the meaning of death, whilst imparting wisdom and advice to his younger friend Mitch.
+<!-- more -->
 
 Mitch left high school a year early and soon found himself out of his depth in college, surrounded by older students. Baggy tracksuits, blaring music from his car and walking around with a cigarette in his mouth he describes were fronts for his feelings of fear in this new environment. Morrie on the other hand was a teacher like no other. Instead of pretending to be something he was not, he was as open as they come, filled with joy and happiness and strived to connect deeply with his students. It is this juxtaposition that drew Mitch and Morrie together in an unexpected friendship that would carry Mitch through his college years and to pursue an honorary thesis after following Morrie’s guidance. Graduation sadly saw Mitch and Morrie part ways, and although Mitch promised he would stay in touch, he never did. 16 years later Morrie was featured on the TV show ‘Nightline” due to his newfound disease and the impact it was having on his life. As luck would have it, Mitch happened to be watching and was instantly moved to reach out and rekindle their friendship in the last 6 months of life Morrie had left to offer. This is where their journey starts.
 

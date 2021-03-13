@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 'Interstellar' Information Paradox
+title: 'Interstellar' and The Information Paradox
 ---
 
 A presentation entitled <em>'Interstellar' and The Information Paradox</em> to my fellow students/tutors as part of the 2nd Year Physics Presentations (a requirement in the Oxford Physics degree course). This talk was greatly received and I was thankfully awarded First Prize for it.
