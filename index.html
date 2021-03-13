@@ -15,12 +15,16 @@ title: Home
       </a>
     </h1>
 
-    <span style="display: in-line" class="post-date" title="Estimated read time">
+    <span style="display: inline" class="post-date" title="Estimated read time">
       {{ post.date | date_to_string }} &middot; 
        {% assign words = post.content | number_of_words %}{{ words | divided_by:200 | at_most:25 }} min read
     </span>
+
+
+
+
    &emsp;
-    <span style="display: in-line">[
+    <span style="display: inline">[
        {% capture category_name %}{{ post.category }}{% endcapture %}
        <a href="/category/{{ category_name }}">{{ category_name }}</a>]
     </span>
@@ -36,7 +40,7 @@ title: Home
      {% endif %}
     </div>
   </div>
-  
+
   {% endfor %}
 
 </div>
