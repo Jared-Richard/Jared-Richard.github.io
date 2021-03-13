@@ -16,7 +16,7 @@ title: Home
     {% if post.content contains "<!-- more -->" %}
       {{ post.content | split:"<!-- more -->" | first % }}
       <div style="text-align: left;">
-        <a href="{{ post.url }}" style="color:#383fc7;">Read More...</a>
+        <a href="{{ post.url }}" style="font-weight: bold; color:#383fc7;">Read More...</a>
       </div>
     {% else %}
       {{ post.content }}
