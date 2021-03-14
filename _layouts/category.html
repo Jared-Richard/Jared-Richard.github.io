@@ -17,8 +17,6 @@ layout: default
       </a>
     </h3>
 
-    
-
       {% if post.content contains "<!-- more -->" %}
       {{ post.content | split:"<!-- more -->" | first % }}
       <div style="text-align: left;">
