@@ -11,5 +11,6 @@ My name is Jared Richard, a Physics Undergraduate at the University of Oxford. T
 Please feel free to get in contact with me:
 
 email: jaredk.richard@gmail.com
-linkedin: <a href="www.linkedin.com/in/jared-richard">Jared Richard</a>
+<p></p>
+linkedin: <a href="https://www.linkedin.com/in/jared-richard/" target="_blank">Jared Richard</a>
 
