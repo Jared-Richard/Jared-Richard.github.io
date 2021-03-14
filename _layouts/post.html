@@ -3,30 +3,33 @@ layout: default
 ---
 
 <div class="post">
+
+  <!-- Title -->
+
   <h1 class="post-title">{{ page.title }}</h1>
 
-    <div class="metadata">
+    <!-- Meta -->
 
+    <div class="metadata">
       <span style="display: inline" class="post-date" title="Estimated read time">
         {{ page.date | date_to_string }} 
           &middot; 
          {% assign words = page.content | number_of_words %}{{ words | divided_by:200 | at_most:25 }} min read
       </span>
-
      &emsp;
-
       <span style="display: inline">[
         {% capture category_name %}{{ page.category }}{% endcapture %}
         <a href="/category/{{ category_name }}">{{ category_name }}</a> ]
       </span>
-
     </div>
 
-  <span class="post-date metadata">{{ page.date | date_to_string }}</span>
+    <!-- Content -->
 
   {{ content }}
 
 </div>
+
+<!-- Related posts -->
 
 <div class="related">
   <h2>Related Posts</h2>
