@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+
 <div class="metadata">
   <span style="display: inline" class="post-date" title="Estimated read time">
     {{ post.date | date_to_string }} &middot; 
@@ -28,4 +31,6 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+</div>
+
 </div>
