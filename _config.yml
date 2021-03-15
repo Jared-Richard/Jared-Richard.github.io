@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-categories:       "physics|book-reviews|general|life|coding|finance|sports|projects"
+categories:       "physics|book-reviews|general|coding|finance"
 
 # Permalinks
 permalink:        pretty

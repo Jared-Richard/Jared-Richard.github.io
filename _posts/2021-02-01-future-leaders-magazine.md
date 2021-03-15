@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 150 Future Leaders - Magazine Feature
-category: life
+category: general
 ---
 
 It has been an honour to be featured in this years edition of Future Leaders Magazine: an annual publication celebrating the top 150 black university students in the UK.

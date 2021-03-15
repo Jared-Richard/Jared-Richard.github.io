@@ -10,10 +10,7 @@ title: Post Archive
 ### [Finance]({{ site.url }}/category/finance)
 ### [Book Reviews]({{ site.url }}/category/book-reviews)
 ### [General]({{ site.url }}/category/general)
-### [Life]({{ site.url }}/category/life)
-### [Sports]({{ site.url }}/category/sports)
 
-_____
 
 <h2>All Posts:</h2>
 
