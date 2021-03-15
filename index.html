@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+<em><h4>Welcome</h4></em> to my academic site. - Jared
+
+<h3>Recent Posts</h3>
+
 <div class="posts">
 
   {% for post in paginator.posts %}
@@ -20,7 +24,7 @@ title: Home
         {{ post.date | date_to_string }} &middot; 
          {% assign words = post.content | number_of_words %}{{ words | divided_by:200 | at_most:25 }} min read
       </span>
-      
+
      &emsp;
 
       <span style="display: inline">[
