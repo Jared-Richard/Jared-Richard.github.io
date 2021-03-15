@@ -8,9 +8,11 @@ It has been an honour to be featured in this years edition of Future Leaders Mag
 
 <!-- more -->
 
+![future leader pic 1](/assets/images/future-leaders1.jpg){:class="img-responsive"}
+
 The magazine also features an article I wrote about the importance of mentoring and paying it forward to future generations.
 
-![](/assets/images/image.jpg){:class="img-responsive"}
+![future leader pic 1](/assets/images/future-leaders2.jpg){:class="img-responsive"}
 
 "Your success in life lies not only with what you can ascertain for yourself, but the abundance of change, knowledge and advice you impart to the next generation.
 
