@@ -16,7 +16,7 @@ My speech at the annual <em>Aske Project Celebration Assembly</em>:
 
 Before presenting my project at the celebration assembly, I sat a viva examination with an external Physics professor to discuss the scope of my project. Below are his comments:
 
-![Viva Comments](assets/images/viva-comments.png)
+![Viva Comments](/assets/images/viva-comments.png)
 
 This research was an extension of my submission for the Oxford Physics 'Higgs Hunters' competition. As a result of being selected as a winner, I was honoured to be invited to present my findings over a two day conference at Oxford. Here is a video of the event:
 
