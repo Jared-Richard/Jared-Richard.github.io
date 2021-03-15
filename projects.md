@@ -5,17 +5,7 @@ title: Projects
 
 <div class="posts">
 
-  <ul>
-{% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
-    <ul>
-    {% for post in category.last %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-  </li>
-{% endfor %}
-</ul>
+  {% for post in site.category.physics %}
 
   <div class="post">
 
