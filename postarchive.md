@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posts
+title: Post Archive
 ---
 
 <h2>Categories</h2>
