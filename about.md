@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+![Jared Richard](/assets/images/jared-cover-pic.png){:class="img-responsive"}
+
 My name is Jared Richard, a Physics Undergraduate at the University of Oxford. Through self-teaching Javascript, HTML, CSS and Python, I have built this academic website, and intend to post coding projects, book reviews and more. Aside from academic studies I am also actively involved in 
 
 <!-- Throughout the majority of my time in education, from primary school to university, I’ve had the interesting challenge of balancing studies with a professional acting career. This started at 5 years old when my Mum took me to an open audition at Regents Park Open Air Theatre, where I was cast in “Babe The Sheep Pig” as my first acting experience.
