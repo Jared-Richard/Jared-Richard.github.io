@@ -5,11 +5,11 @@ title: Post Archive
 
 <h2>Categories</h2>
 
-[Physics]({{ site.url }}/category/physics)
+**[Physics]({{ site.url }}/category/physics)**
 
-<h3>[Life]({{ site.url }}/category/life)</h3>
+### [Physics]({{ site.url }}/category/physics)
 
-<h2>[Life]({{ site.url }}/category/book-reviews)</h2>
+## [Physics]({{ site.url }}/category/physics)
 
 category 1
 category 2
