@@ -10,6 +10,8 @@ It has been an honour to be featured in this years edition of Future Leaders Mag
 
 The magazine also features an article I wrote about the importance of mentoring and paying it forward to future generations.
 
+![](/assets/images/image.jpg){:class="img-responsive"}
+
 "Your success in life lies not only with what you can ascertain for yourself, but the abundance of change, knowledge and advice you impart to the next generation.
 
 That is how we progress as a race. By thinking bigger than ourselves, by appreciating the importance of offering to someone younger what you potentially may have not had yourself, by leading them forward and nurturing their unwavering focus and passion to guide it into a place of unprecedented achievement."

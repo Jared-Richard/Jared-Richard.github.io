@@ -31,8 +31,8 @@ a {
 
 .embed-youtube {
   position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 25px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   height: 0;
 }
 
@@ -47,4 +47,11 @@ a {
 .metadata {
   color: #515151;
   padding-bottom: 1rem;
+}
+
+.img-responsive {
+  width: 50%;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
