@@ -5,8 +5,7 @@ title: Post Archive
 
 <h2>Categories</h2>
 
-[Link to a category]({{ site.baseurl }}{% link category/physics.md %})
-[Link to a file]({{ site.baseurl }}{% link /assets/files/doc.pdf %})
+[Link to a category]({{ site.baseurl }}{% link /category/physics.md %})
 
 category 1
 category 2
