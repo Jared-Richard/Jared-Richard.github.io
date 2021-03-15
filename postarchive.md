@@ -5,11 +5,12 @@ title: Post Archive
 
 <h2>Categories</h2>
 
-Below are some categories:
+category 1
+category 2
+category 3
+category 4
 
-local links....
-
-<h2>Post Archive</h2>
+<h2>All Posts</h2>
 
 {% for post in site.posts %}
 
