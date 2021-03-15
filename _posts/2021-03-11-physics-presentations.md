@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interstellar and The Information Paradox
+title: 'Interstellar' and The Information Paradox
 category: physics
 ---
 

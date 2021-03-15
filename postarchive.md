@@ -3,6 +3,8 @@ layout: page
 title: Post Archive
 ---
 
+-----
+
 <h2>Categories:</h2>
 
 * ### [Physics]({{ site.url }}/category/physics)
@@ -11,7 +13,7 @@ title: Post Archive
 * ### [Book Reviews]({{ site.url }}/category/book-reviews)
 * ### [General]({{ site.url }}/category/general)
 
-_____ 
+-----  
 
 <h2>All Posts:</h2>
 
