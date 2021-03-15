@@ -1,7 +1,15 @@
 ---
 layout: page
-title: Post Archive
+title: Posts
 ---
+
+<h2>Categories</h2>
+
+Below are some categories:
+
+local links....
+
+<h2>Post Archive</h2>
 
 {% for post in site.posts %}
 
