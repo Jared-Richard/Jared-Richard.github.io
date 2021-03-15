@@ -6,6 +6,8 @@ category: physics
 
 I hated Physics. All through my time at school. This was up until early year 12 when by pure chance, my dad recommended I watch the film ‘Interstellar’ with him. Christopher Nolan’s interpretation of the blend between science and love instantly captivated me, and it was my first introduction to black holes, relativity, and time dilation.
 
+<!-- more -->
+
 I often take a step back and wonder, why are we all here? Tiny organisms in an ever-expanding infinite universe that harbours billions of galaxies, each with trillions of stars. A cosmic arena that contains a multitude of phenomena, spanning from the violent implosion of a dying star, to the innocent growth of a flower. Why?
 
 Gargantua (Black Hole) – Interstellar
