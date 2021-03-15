@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Physics?
-category: Physics
+category: physics
 ---
 
 I hated Physics. All through my time at school. This was up until early year 12 when by pure chance, my dad recommended I watch the film ‘Interstellar’ with him. Christopher Nolan’s interpretation of the blend between science and love instantly captivated me, and it was my first introduction to black holes, relativity, and time dilation.

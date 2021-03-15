@@ -1,5 +1,5 @@
 ---
 layout: post
 title: Rich Dad Poor Dad
-category: Book Reviews
+category: book-reviews
 ---

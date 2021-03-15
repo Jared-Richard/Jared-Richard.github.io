@@ -1,5 +1,5 @@
 ---
 layout: category
 title: "Category: Book Reviews"
-category: book reviews
+category: book-reviews
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips for applying to Oxford University
-category: General
+category: general
 ---
 
 {% include youtubePlayer.html id="s6U0Ynqjyu0" %}
