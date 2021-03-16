@@ -58,3 +58,21 @@ a {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
+.img-responsive-book {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.img-responsive-profile {
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
