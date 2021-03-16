@@ -6,7 +6,7 @@ category: book-reviews
 
 ![Cover](/assets/images/quiet-soldier-cover.jpg){:class="img-responsive-book"}
 
-I loved this books honest but interesting description of selection for 21 SAS (Special Air Service) - a Special Forces branch of the UK's military. 
+I loved this books honest and intriguing description of selection for 21 SAS (Special Air Service) - a Special Forces branch of the UK's military. 
 
 <!-- more -->
 
