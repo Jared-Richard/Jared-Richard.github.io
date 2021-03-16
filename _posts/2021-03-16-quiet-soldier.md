@@ -4,7 +4,7 @@ title: The Quiet Soldier
 category: book-reviews
 ---
 
-![Cover](/assets/images/  ){:class="img-responsive-book"}
+![Cover](/assets/images/quiet-soldier-cover.jpg){:class="img-responsive-book"}
 
 I loved this books honest but interesting description of selection for 21 SAS (Special Air Service) - a Special Forces branch of the UK's military. 
 
@@ -14,7 +14,7 @@ It describes a process that lasts well over a year, first beginning with increas
 
 Summary: thoroughly enjoyed this book and would be interested in learning more about military life and special forces in the UK.
 
-<h4>Quotes & Passages:</h4>
+<h3>Quotes & Passages:</h3>
 
 *'For a young man who wants to enjoy himself, to spend a few years agreeably in military companionship … the British cavalry will be suited … To the youth who means to make himself a professional soldier, an expert in war, a specialist in practical tactics, who desires a hard life of adventure and a true comradeship in arms, I would recommend the choice of some regiment on the frontier.'* - Winston Churchill
 
@@ -36,7 +36,7 @@ Summary: thoroughly enjoyed this book and would be interested in learning more a
 
 *'Are you, then, so easily turned from your design? Did you not call this a glorious expedition? And wherefore was it glorious? Not because the way was smooth and placid as a southern sea, but because it was full of dangers and terror, because at every new incident your fortitude was to be called forth and your courage exhibited, because danger and death surrounded it, and these you were to brave and overcome. For this it was glorious, for this it was an honourable undertaking … Oh! Be men, or be more than men. Be steady to your purposes and firm as rock.'* - Mary Shelley
 
-<h4>New words:</h4>
+<h3>New words:</h3>
 
 * indefatigable
 * equipoise
