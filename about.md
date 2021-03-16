@@ -20,5 +20,6 @@ More recently, over the last 5 years I have performed as the characters Marley a
 Please feel free to get in contact with me:
 
 email: jaredk.richard@gmail.com
+<p></p>
 linkedin: <a href="https://www.linkedin.com/in/jared-richard/" target="_blank">Jared Richard</a>
 
