@@ -14,8 +14,8 @@ Gargantua (Black Hole) – Interstellar
 
 I believe the meaning of life is to find our why we have been placed here. We all too often find ourselves consumed by daily trivialities, we must focus on bigger questions. As Stephen Hawking once said:
 
-Look up at the stars, not down at your feet
-Stephen Hawking
+>> Look up at the stars, not down at your feet
+>> *Stephen Hawking*
 
 I am currently a Physics Undergraduate at the University of Oxford, with a deep interest in the subtleties physics shares with other aspects of life. Whether that be the quantum physics that powers all modern technology (e.g. the laptop I am typing this on), Quantitative Finance, Artificial Intelligence, Space Travel and much more.
 

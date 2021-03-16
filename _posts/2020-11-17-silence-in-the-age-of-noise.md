@@ -4,6 +4,8 @@ title: Silence In The Age of Noise
 category: book-reviews
 ---
 
+![Cover](/assets/images/silence-cover.jpg){:class="img-responsive"}
+
 This book describes to us the importance of silence in our daily lives. Kagge, A previous Cambridge Philosophy student turned explorer, speaks of his 50 day expedition across Antarctica… with a broken radio. He envelops us in the silence he experienced, and uses this as a powerful tool to convince us of the benefits it can have in each of our lives.
 
 <!-- more -->
