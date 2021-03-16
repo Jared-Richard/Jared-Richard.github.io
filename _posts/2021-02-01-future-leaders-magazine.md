@@ -18,7 +18,7 @@ The magazine also features an article I wrote about the importance of mentoring 
 
 That is how we progress as a race. By thinking bigger than ourselves, by appreciating the importance of offering to someone younger what you potentially may have not had yourself, by leading them forward and nurturing their unwavering focus and passion to guide it into a place of unprecedented achievement."
 
- <a href="https://www.flipsnack.com/FutureLeaders/future-leaders-2020-21.html" target="_blank">Top 150 Future Leaders Magazin 2021 Edition</a>
+ <a href="https://www.flipsnack.com/FutureLeaders/future-leaders-2020-21.html" target="_blank">Top 150 Future Leaders Magazine - 2020/21 Edition</a>
 
  Thank you to Adenike Adenitire and the team at Powerlist Magazine for organising such an empowering celebration event this week, featuring the likes of: Femi Oguns, J.P. Morgan, Latham & Watkins and Royal Air Force (RAF).
 

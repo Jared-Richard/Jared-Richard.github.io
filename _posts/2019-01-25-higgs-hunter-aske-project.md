@@ -32,13 +32,13 @@ Photos of both events:
 
 ![Viva Comments](/assets/images/aske-project1.jpg){:class="img-responsive"}
 
-![Viva Comments](/assets/images/aske-project3){:class="img-responsive"}
+![Viva Comments](/assets/images/aske-project3.png){:class="img-responsive"}
 
 ![Viva Comments](/assets/images/aske-project2.jpg){:class="img-responsive"}
 
-![Viva Comments](/assets/images/higgs-hunter1){:class="img-responsive"}
+![Viva Comments](/assets/images/higgs-hunter1.png){:class="img-responsive"}
 
-![Viva Comments](/assets/images/higgs-hunter2){:class="img-responsive"}
+![Viva Comments](/assets/images/higgs-hunter2.png){:class="img-responsive"}
 
 
 
