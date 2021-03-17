@@ -3,27 +3,23 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<!-- ![Jared Richard](/assets/images/jared-cover-pic.png){:class="img-responsive-profile"}
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My name is Jared Richard, a Physics Undergraduate at the University of Oxford. Self-teaching Javascript, HTML, CSS and Python alongside my university studies has now driven me to build this academic website, where I intend to post coding projects, book reviews and more. Aside from academic studies I am also actively involved in long-distance running, acting and mentoring.
 
-There are currently two themes built on Poole:
+<!-- Throughout the majority of my time in education, from primary school to university, I’ve had the interesting challenge of balancing studies with a professional acting career. This started at 5 years old when my Mum took me to an open audition at Regents Park Open Air Theatre, where I was cast in “Babe The Sheep Pig” as my first acting experience.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Years later I would find myself performing as William Frankenstein for 5 consecutive months in Danny Boyle’s ‘Frankenstein‘ at The National Theatre. This included 4 evening performances per week balanced with my academic studies. Working with the likes of Benedict Cumberbatch, Jonny Lee Miller, Naomi Harris and Danny Boyle was a truly amazing experience and one I will always cherish.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Young actor Jared Richard stars in Danny Boyle’s Frankenstein at National Theatre – Harrow Times
 
-## Setup
+More recently, over the last 5 years I have performed as the characters Marley and Jason in the German educational series ‘Klett’. The videos have not been officially released yet but screenshots will be coming soon. -->
 
-Some fun facts about the setup of this project include:
+<h2>Contact</h2>
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+Please feel free to get in contact with me:
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+email: jaredk.richard@gmail.com
+<p></p>
+linkedin: <a href="https://www.linkedin.com/in/jared-richard/" target="_blank">Jared Richard</a>
 
-Thanks for reading!
