@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Jared Richard](/assets/images/jared-cover-pic.png){:class="img-responsive-profile"}
+<!-- ![Jared Richard](/assets/images/jared-cover-pic.png){:class="img-responsive-profile"}
 
 My name is Jared Richard, a Physics Undergraduate at the University of Oxford. Self-teaching Javascript, HTML, CSS and Python alongside my university studies has now driven me to build this academic website, where I intend to post coding projects, book reviews and more. Aside from academic studies I am also actively involved in long-distance running, acting and mentoring.
 
