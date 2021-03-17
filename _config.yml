@@ -1,31 +1,22 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-categories:       "physics|book-reviews|general|coding|finance"
-
-# Permalinks
-permalink:        pretty
-
 # Setup
-title:            JKR
-tagline:          By Jared Richard
-description:      A site by <a href="https://www.linkedin.com/in/jared-richard/" target="_blank">Jared Richard</a>
-url:              https://jaredrichard.co.uk
-baseurl:          ''
+title:               Quantus
+tagline:             'A website by Jared Richard'
+description:         'Quantus. By Jared Richard - just a Physicist who wants to know why.'
+url:                 http://Jared-Richard.github.io
+baseurl:             /Jared-Richard.github.io
+paginate:            5
+permalink:           pretty
 
+# About/contact
 author:
-  name:           Jared Richard
-  url:           
+  name:              Jared Richard
+  url:               
+  email:             jaredk.richard@gmail.com
 
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/Jared-Richard
-
+# Gems
 plugins:
   - jekyll-paginate
-  - jekyll-gist
-  - redcarpet
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
