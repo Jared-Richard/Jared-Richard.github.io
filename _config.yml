@@ -2,8 +2,8 @@
 title:               Quantus
 tagline:             'A website by Jared Richard'
 description:         'Quantus. By Jared Richard - just a Physicist who wants to know why.'
-url:                 http://Jared-Richard.github.io
-baseurl:             /Jared-Richard.github.io
+url:                 http://jaredrichard.co.uk
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
