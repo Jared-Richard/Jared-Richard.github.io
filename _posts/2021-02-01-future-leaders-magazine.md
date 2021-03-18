@@ -4,7 +4,7 @@ title: Top 150 Future Leaders - Magazine Feature
 category: general
 ---
 
-It has been an honour to be featured in this years edition of Future Leaders Magazine: an annual publication celebrating the top 150 black university students in the UK.
+Selected to be featured in the 2020/21 edition of *Future Leaders Magazine*: an annual publication celebrating the top 150 black university students in the UK.
 
 <!-- more -->
 

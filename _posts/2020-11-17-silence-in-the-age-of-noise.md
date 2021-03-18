@@ -4,11 +4,13 @@ title: Silence In The Age of Noise
 category: book-reviews
 ---
 
-![Cover](/assets/images/silence-cover.jpg){:class="img-responsive-book"}
-
-This book describes to us the importance of silence in our daily lives. Kagge, A previous Cambridge Philosophy student turned explorer, speaks of his 50 day expedition across Antarctica… with a broken radio. He envelops us in the silence he experienced, and uses this as a powerful tool to convince us of the benefits it can have in each of our lives.
+An exploration into the importance of silence in our daily lives.
 
 <!-- more -->
+
+![Cover](/assets/images/silence-cover.jpg){:class="img-responsive-book"}
+
+Erling Kagge, A previous Cambridge Philosophy student turned explorer, speaks of his 50 day expedition across Antarctica… with a broken radio. He envelops us in the silence he experienced, and uses this as a powerful tool to convince us of the benefits it can have in each of our lives.
 
 The modern day has killed our attention spans. With such easy access to our phones, laptops, the internet, music etc. we provide ourselves a quick route away from boredom. Seldom do we find ourselves sitting in complete silence by ourselves and just thinking. Whilst this may not seem detrimental, it hinders our ability to intensely concentrate, truly listen when others are speaking and also find inner peace. In a study by the universities of Harvard and Virginia, scientists left individuals in a room alone for 15 minutes without their phones, music and reading or writing material. The researchers took this a step further and wanted to see if the individuals would rather experience something unpleasant, such as receive an electric shock, than sit alone with their thoughts. According to the researchers, being alone with one’s own thoughts ‘was apparently so aversive that it drove many participants to self-administer an electric shock that they had earlier said they would pay to avoid’. One participant pushed the button 190 times. Whilst this experiment may seem extreme and the theme easy to brush off as just the way life is, there are a select few, Kagge and myself included, who wish to challenge this.
 

@@ -4,13 +4,13 @@ title: The Quiet Soldier
 category: book-reviews
 ---
 
-![Cover](/assets/images/quiet-soldier-cover.jpg){:class="img-responsive-book"}
-
-I loved this books honest and intriguing description of selection for 21 SAS (Special Air Service) - a Special Forces branch of the UK's military. 
+An honest and intriguing description of selection for 21 SAS (Special Air Service) - a Special Forces branch of the UK military. 
 
 <!-- more -->
 
-It describes a process that lasts well over a year, first beginning with increasingly difficult treks across hills in the Brecon Beacons. Then moves onto TQ - *tactical questioning* (i.e. interrogation), and then 'continuation' phase for another few months. On a standard selection round, 200+ men will start, around 10 will finish. Here, Adam Ballinger narrates his own successful experience back in the 1980s. (Interesting point: Adam and several other of the remaining 10 were were previous oxbridge graduates (including a physics student - Avery) and, according to Avery, 'the reason the SAS badge is a mixture of light and dark blue is because there were so many Oxbridge graduates in the original regiment'). 
+![Cover](/assets/images/quiet-soldier-cover.jpg){:class="img-responsive-book"}
+
+This book describes a process that lasts well over a year, first beginning with increasingly difficult treks across hills in the Brecon Beacons. Then moves onto TQ - *tactical questioning* (i.e. interrogation), and then 'continuation' phase for another few months. On a standard selection round, 200+ men will start, around 10 will finish. Here, Adam Ballinger narrates his own successful experience back in the 1980s. (Interesting point: Adam and several other of the remaining 10 were were previous oxbridge graduates (including a physics student - Avery) and, according to Avery, 'the reason the SAS badge is a mixture of light and dark blue is because there were so many Oxbridge graduates in the original regiment'). 
 
 Summary: thoroughly enjoyed this book and would be interested in learning more about military life and special forces in the UK.
 

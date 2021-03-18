@@ -34,7 +34,7 @@ title: Home
       {% if post.content contains "<!-- more -->" %}
       {{ post.content | split:"<!-- more -->" | first % }}
       <div style="text-align: left;">
-        <a href="{{ post.url }}" style="font-weight: bold; color:#383fc7;">Read More...</a>
+        <a href="{{ post.url }}" style="font-weight: bold; color:#383fc7;">Read Post...</a>
       </div>
       {% else %}
         {{ post.content }}
@@ -65,3 +65,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
