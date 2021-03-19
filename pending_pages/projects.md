@@ -1,9 +1,7 @@
-<!-- 
 ---
 layout: page
 title: Projects
 ---
- -->
 
 <div class="posts">
 
