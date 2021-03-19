@@ -1,7 +1,9 @@
+<!-- 
 ---
 layout: page
 title: About
----
+--- 
+-->
 
 ![Jared Richard](/assets/images/jared-about-pic.png){:class="img-responsive-profile"}
 
