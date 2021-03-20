@@ -4,7 +4,8 @@ body {
 }
 
 a {
-  color:#383fc7;
+  color:#f93333;
+  text-decoration: none;
 }
 
 .sidebar {
@@ -14,9 +15,9 @@ a {
 
 .main-title {
   font-family: 'Avenir Next', Avenir, 'Helvetica Neue';
-  text-shadow: 2px 2px #383fc7;
+  text-shadow: 2px 2px #f93333;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   color: #e1e1df;
 }
 
@@ -24,14 +25,14 @@ a {
   font-family: 'Avenir Next', Avenir, 'Helvetica Neue';
   transition: 0.3s;
   color: #e1e1df;
-  text-shadow: 5px 5px 0px #383fc7;
+  text-shadow: 6px 6px 0px #383fc7;
   text-decoration: none;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 3px;
 }
 
 .lead a {
-  color: #0057ff;
+  color: #c20606;
 }
 
 .name:hover {
