@@ -1,0 +1,31 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+categories:       "physics|book-reviews|general|coding|finance"
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            JKR
+tagline:          By Jared Richard
+description:      A site by <a href="https://www.linkedin.com/in/jared-richard/" target="_blank">Jared Richard</a>
+url:              https://jaredrichard.co.uk
+baseurl:          ''
+
+author:
+  name:           Jared Richard
+  url:           
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/Jared-Richard
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - redcarpet
