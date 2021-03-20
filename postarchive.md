@@ -5,8 +5,6 @@ title: Post Archive
 
 -----
 
-<h2>Categories:</h2>
-
 * ### [Physics]({{ site.url }}/category/physics)
 * ### [Coding]({{ site.url }}/category/coding)
 * ### [Finance]({{ site.url }}/category/finance)
@@ -15,7 +13,8 @@ title: Post Archive
 
 -----  
 
-<h2>All Posts:</h2>
+<h2>All Posts</h2>
+
 
 {% for post in site.posts %}
 
