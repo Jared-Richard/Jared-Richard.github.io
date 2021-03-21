@@ -4,13 +4,13 @@ title: Interstellar and The Information Paradox
 category: physics
 ---
 
-My 2nd year Physics presentation, about 'Interstellar' and it's implications to the Black Hole Information Paradox. 
+My 2nd year Oxford Physics presentation (first prize) - 'Interstellar' and it's implications to the Black Hole Information Paradox. 
+
+{% include youtubePlayer.html id="iPsFOTikhJc" %}
 
 <!-- more -->
 
 <em>'Interstellar' and The Information Paradox</em> is the title of my presentation, delivered to my fellow students and tutors as part of the 2nd Year Physics Presentations (a requirement in the Oxford Physics degree course). This talk was greatly received and I was thankfully awarded First Prize for it.
-
-{% include youtubePlayer.html id="iPsFOTikhJc" %}
 
 The talk is an exploration into Christopher Nolan's 2015 blockbuster <em>Interstellar</em>, but more importantly the questions it throws up about modern physics.
 

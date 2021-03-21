@@ -4,7 +4,7 @@ title: Why Physics?
 category: physics
 ---
 
-I hated Physics. All through my time at school. This was up until early year 12 when, by pure chance, my Dad recommended I watch the film ‘Interstellar’ with him. 
+I never particularly liked Physics. All through my time at school. This was up until early year 12 when, by pure chance, my Dad recommended I watch the film ‘Interstellar’ with him. 
 
 <!-- more -->
 

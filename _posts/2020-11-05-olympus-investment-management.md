@@ -4,7 +4,7 @@ title: Olympus Investment Management
 category: finance
 ---
 
-A student-led investment fund I co-founded with Nathan Walemba that implements quantitative research alongside rigorous fundamental analysis to actively invest in the financial markets. 
+A student-led investment fund I co-founded with Nathan Walemba. Olympus Fund implements quantitative research alongside rigorous fundamental analysis to actively invest in the financial markets. 
 
 <!-- more -->
 

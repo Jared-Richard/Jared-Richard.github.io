@@ -6,9 +6,9 @@ category: book-reviews
 
 Short story reflecting on the value of life as one of two best friends nears their death.
 
-<!-- more -->
-
 ![Cover](/assets/images/tuesdays-cover.jpg){:class="img-responsive-book"}
+
+<!-- more -->
 
 “Tuesdays with Morrie” is a short book describing how Mitch Albom’s relationship with Morris Schwartz develops during his final 6 months battling the AlS disease. We are taken on a journey with these two characters as Morrie suffers through ALS aged 78, causing him to reflect on his life and the meaning of death, whilst imparting wisdom and advice to his younger friend Mitch.
 
