@@ -11,5 +11,4 @@ My name is Jared Richard, a Physics Undergraduate at the University of Oxford.
 
 You've reached my academic website, thank you for your visit and I hope you enjoy your stay.
 
->semper discens
->>*always learning*
+>semper discens - *always learning*

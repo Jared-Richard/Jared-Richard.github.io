@@ -7,7 +7,8 @@ title: About
 
 My name is Jared Richard, a Physics Undergraduate at the University of Oxford. 
 
-I have built this website through self-teaching Python, Javascript, HTML and CSS alongside my university studies, with the aim to share coding projects, discuss theories/ideas, post book reviews and more. Aside from my academic studies, I am actively involved in long-distance running/cycling, acting and student mentoring.
+Self-teaching Python, Javascript, HTML and CSS alongside my university studies has driven me to build this academic website. My aim is to share coding projects, discuss theories/ideas, post book reviews and more. Aside from my academic studies, I am actively involved in long-distance running, acting and student mentoring.
+
 
 <!-- Throughout the majority of my time in education, from primary school to university, I’ve had the interesting challenge of balancing studies with a professional acting career. This started at 5 years old when my Mum took me to an open audition at Regents Park Open Air Theatre, where I was cast in “Babe The Sheep Pig” as my first acting experience.
 
