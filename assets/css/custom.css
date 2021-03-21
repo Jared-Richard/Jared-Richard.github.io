@@ -88,11 +88,6 @@ a {
   padding-bottom: 20px;
 }
 
-.page-title, .post-title, .post-title a:hover {
-  color: #3801b3;
-  transition: 0.3s;
-}
-
 .read-more-link {
   color: #908a9b;
 }

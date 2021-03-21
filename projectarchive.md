@@ -6,13 +6,13 @@ title: Projects
 
 <h2>Categories</h2>
 
-* ### [Coding]({{ site.url }}/category/coding)
-* ### [Physics]({{ site.url }}/category/physics)
-* ### [Finance]({{ site.url }}/category/finance)
+* ## [Coding]({{ site.url }}/category/coding)
+* ## [Physics]({{ site.url }}/category/physics)
+* ## [Finance]({{ site.url }}/category/finance)
 
 -----  
 
-<h2>Post Archive</h2>
+<h2>Project Archive</h2>
 
 {% for post in site.posts %}
 
