@@ -6,8 +6,8 @@ title: Posts
 
 <h2>Categories</h2>
 
-* ### [Book Reviews]({{ site.url }}/category/book-reviews)
-* ### [General]({{ site.url }}/category/general)
+* #### [Book Reviews]({{ site.url }}/category/book-reviews)
+* #### [General]({{ site.url }}/category/general)
 
 -----  
 
