@@ -6,11 +6,8 @@ title: Posts
 
 <h2>Categories</h2>
 
-* ### [Book Reviews]({{ site.url }}/category/book-reviews)
-* ### [General]({{ site.url }}/category/general)
-
-* ### [Physics]({{ site.url }}/category/physics)
 * ### [Coding]({{ site.url }}/category/coding)
+* ### [Physics]({{ site.url }}/category/physics)
 * ### [Finance]({{ site.url }}/category/finance)
 
 -----  

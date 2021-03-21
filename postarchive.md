@@ -9,10 +9,6 @@ title: Posts
 * ### [Book Reviews]({{ site.url }}/category/book-reviews)
 * ### [General]({{ site.url }}/category/general)
 
-* ### [Physics]({{ site.url }}/category/physics)
-* ### [Coding]({{ site.url }}/category/coding)
-* ### [Finance]({{ site.url }}/category/finance)
-
 -----  
 
 <h2>Post Archive</h2>
