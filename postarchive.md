@@ -3,7 +3,13 @@ layout: page
 title: Post Archive
 ---
 
+
+
 -----
+
+<!-- CATEGORIES -->
+
+<h2>Categories</h2>
 
 * ### [Physics]({{ site.url }}/category/physics)
 * ### [Coding]({{ site.url }}/category/coding)
@@ -11,10 +17,17 @@ title: Post Archive
 * ### [Book Reviews]({{ site.url }}/category/book-reviews)
 * ### [General]({{ site.url }}/category/general)
 
+-----
+
+<!-- PROJECTS -->
+
+
+
 -----  
 
-<h2>All Posts</h2>
+<!-- POSTS -->
 
+<h2>Posts</h2>
 
 {% for post in site.posts %}
 
