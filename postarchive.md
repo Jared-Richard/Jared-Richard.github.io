@@ -4,8 +4,6 @@ title: Posts
 ---
 -----
 
-<!-- CATEGORIES -->
-
 <h2>Categories</h2>
 
 * ### [Book Reviews]({{ site.url }}/category/book-reviews)
@@ -16,8 +14,6 @@ title: Posts
 * ### [Finance]({{ site.url }}/category/finance)
 
 -----  
-
-<!-- POSTS -->
 
 <h2>Post Archive</h2>
 
