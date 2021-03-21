@@ -7,6 +7,7 @@ title: Home
 
 My name is Jared Richard, a Physics Undergraduate at the University of Oxford. 
 
+You've reached my academic website, thank you for your visit and I hope you enjoy your stay.
 
+*Semper discens* - *always learning*.
 
-My aim is for this site to be an area to share coding projects, discuss theories and ideas, post book reviews and more.
