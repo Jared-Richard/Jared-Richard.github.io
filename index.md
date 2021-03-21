@@ -5,7 +5,7 @@ title: Home
 
 <!-- ABOUT -->
 
-<h2>About</h2>
+<a id="about-me"><h2>About</h2></a>
 
 ![Jared Richard](/assets/images/jared-about-pic.png){:class="img-responsive-profile"}
 
