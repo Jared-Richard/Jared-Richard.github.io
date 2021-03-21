@@ -5,6 +5,8 @@ title: Home
 
 <!-- ABOUT -->
 
+<h2>About</h2>
+
 ![Jared Richard](/assets/images/jared-about-pic.png){:class="img-responsive-profile"}
 
 My name is Jared Richard and I'm currently a Physics Undergraduate at the University of Oxford. 
@@ -29,6 +31,7 @@ Self-teaching Python, Javascript, HTML and CSS alongside my university studies h
 
 <!-- PROJECTS -->
 
+<h2>Projects</h2>
 
 
 -----  

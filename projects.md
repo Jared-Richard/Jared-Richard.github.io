@@ -1,7 +1,7 @@
-<!-- ---
-layout: page
+---
+layout: project
 title: Projects
---- -->
+---
 
 <div class="posts">
 
