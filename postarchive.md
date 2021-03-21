@@ -1,33 +1,25 @@
 ---
 layout: page
-title: Post Archive
+title: Posts
 ---
-
-
-
 -----
 
 <!-- CATEGORIES -->
 
 <h2>Categories</h2>
 
-* ### [Physics]({{ site.url }}/category/physics)
-* ### [Coding]({{ site.url }}/category/coding)
-* ### [Finance]({{ site.url }}/category/finance)
 * ### [Book Reviews]({{ site.url }}/category/book-reviews)
 * ### [General]({{ site.url }}/category/general)
 
------
-
-<!-- PROJECTS -->
-
-
+* ### [Physics]({{ site.url }}/category/physics)
+* ### [Coding]({{ site.url }}/category/coding)
+* ### [Finance]({{ site.url }}/category/finance)
 
 -----  
 
 <!-- POSTS -->
 
-<h2>Posts</h2>
+<h2>Post Archive</h2>
 
 {% for post in site.posts %}
 
