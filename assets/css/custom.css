@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color:#f93333;
+  color:#6200EE;
   text-decoration: none;
 }
 
@@ -31,8 +31,10 @@ a {
   letter-spacing: 3px;
 }
 
-.lead a {
-  color: #c20606;
+.lead a:hover {
+  color: #3801b3;
+  transition: 0.5s;
+  font-weight: bold;
 }
 
 .name:hover {
@@ -85,4 +87,19 @@ a {
   margin-right: auto;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.page-title, .post-title, .post-title a:hover {
+  color: #3801b3;
+  transition: 0.3s;
+}
+
+.read-more-link {
+  color: #908a9b;
+}
+
+.read-more-link:hover {
+  font-weight: bold;
+  color: #3801b3;
+  transition: 0.4s;
 }
