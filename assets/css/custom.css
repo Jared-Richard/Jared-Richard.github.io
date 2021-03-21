@@ -33,8 +33,7 @@ a {
 
 .lead a:hover {
   color: #3801b3;
-  transition: 0.5s;
-  font-weight: bold;
+  transition: 0.3s;
 }
 
 .name:hover {
@@ -101,5 +100,5 @@ a {
 .read-more-link:hover {
   font-weight: bold;
   color: #3801b3;
-  transition: 0.4s;
+  transition: 0.3s;
 }
