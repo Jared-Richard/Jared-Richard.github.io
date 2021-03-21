@@ -15,9 +15,7 @@ a {
 
 .main-title {
   font-family: 'Avenir Next', Avenir, 'Helvetica Neue';
-  text-shadow: 2px 2px #f93333;
   text-transform: uppercase;
-  letter-spacing: 2px;
   color: #e1e1df;
 }
 
@@ -25,15 +23,14 @@ a {
   font-family: 'Avenir Next', Avenir, 'Helvetica Neue';
   transition: 0.3s;
   color: #e1e1df;
-  text-shadow: 6px 6px 0px #383fc7;
+  text-shadow: 6px 6px 0px #0d16ba;
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 3px;
 }
 
 .lead a:hover {
-  color: #3801b3;
-  transition: 0.3s;
+  color: #4e09e3;
 }
 
 .name:hover {
@@ -86,14 +83,4 @@ a {
   margin-right: auto;
   padding-top: 20px;
   padding-bottom: 20px;
-}
-
-.read-more-link {
-  color: #908a9b;
-}
-
-.read-more-link:hover {
-  font-weight: bold;
-  color: #3801b3;
-  transition: 0.3s;
 }

@@ -17,7 +17,11 @@ Young actor Jared Richard stars in Danny Boyle’s Frankenstein at National Thea
 
 More recently, over the last 5 years I have performed as the characters Marley and Jason in the German educational series ‘Klett’. The videos have not been officially released yet but screenshots will be coming soon. -->
 
+<p></p>
+
 <h2>Contact</h2>
+
+<p></p>
 
 Please feel free to contact me. I'd love to hear any thoughts, ideas or suggestions:
 
