@@ -4,8 +4,8 @@ title: Posts
 ---
 -----
 
-* #### [Book Reviews]({{ site.url }}/category/book-reviews)
-* #### [General]({{ site.url }}/category/general)
+* ### [Book Reviews]({{ site.url }}/category/book-reviews)
+* ### [General]({{ site.url }}/category/general)
 
 -----  
 
