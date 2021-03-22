@@ -66,3 +66,21 @@ TEST 5
 
 {% endfor %}
 
+
+
+
+TEST 1
+
+{% for post in site.categories[physics, finance] %}
+
+{{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
+
+{% endfor %}
+
+TEST 1
+
+{% for post in site.categories.[physics] %}
+
+{{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
+
+{% endfor %}
