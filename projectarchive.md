@@ -42,28 +42,6 @@ TEST 2
 {% endfor %}
 
 
-
-TEST 3
-
-{% for post in site.categories[ physics, finance ] %}
-  {% if post.categories contains "physics" or post.categories contains "finance" %}
-
-    {{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
-
-  {% endif %}
-{% endfor %}
-
-
-TEST 4
-
-{% for post in site.categories %}
-  {% if post.categories contains "physics" and post.categories contains "finance" %}
-
-    {{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
-
-  {% endif %}
-{% endfor %}
-
 TEST 5
 
 {% for post in site.categories[physics, finance] %}
@@ -76,6 +54,15 @@ TEST 5
 
 
 
+<h2>Coding</h2>
 
+<h2>Physics</h2>
 
+<h2>Finance</h2>
+
+{% for post in site.categories[finance ] %}
+
+{{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
+
+{% endfor %}
 
