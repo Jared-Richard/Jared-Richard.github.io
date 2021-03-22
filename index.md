@@ -13,6 +13,4 @@ You've reached my academic website. Check out some of the <a href="{{ site.url }
 
 Thank you for your visit and I hope you enjoy your stay.
 
-- *Jared*
-
 <!-- >semper discens - *always learning* -->
