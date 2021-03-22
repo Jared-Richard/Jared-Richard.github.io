@@ -1,9 +1,16 @@
 ---
-layout: category
-title: "Category: Finance"
-category: finance
+layout: page
+title: "Finance"
 ---
 
 Through reading “The Physics of Wall Street” by James Weatherall, I was first introduced to the subtle yet elegant relationship between financial markets and physical theories.
 
 I intend to harness the analytical skills from my Physics degree and technical skills from self-teaching Python to understand market behaviour on a deeper level. An exploration into predicting the unpredictable.
+
+<h2>Finance</h2>
+
+{% for post in site.categories[finance, ] %}
+
+{{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
+
+{% endfor %}
