@@ -7,8 +7,12 @@ title: Home
 
 <p></p>
 
-My name is Jared Richard, a Physics Undergraduate at the University of Oxford. 
+My name is <a href="{{ site.url }}/about">Jared Richard</a>, a Physics Undergraduate at the University of Oxford. 
 
-You've reached my academic website, thank you for your visit and I hope you enjoy your stay.
+You've reached my academic website. Check out some of the <a href="{{ site.url }}/projectarchive">projects</a> or <a href="{{ site.url }}/postarchive">posts</a> and feel free to <a href="{{ site.url }}/about">let me know</a> any thoughts or ideas.
 
->semper discens - *always learning*
+Thank you for your visit and I hope you enjoy your stay.
+
+- *Jared*
+
+<!-- >semper discens - *always learning* -->
