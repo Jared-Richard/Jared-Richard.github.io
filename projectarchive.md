@@ -14,7 +14,7 @@ title: Projects
 
 <h2>Project Archive</h2>
 
-{% for post in site.posts[physics, finance] %}
+{% for post in site.posts %}
 
 {{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
 
@@ -22,11 +22,31 @@ title: Projects
 
 
 
-TEST
+TEST 1
+
+{% for post in site.categories[physics, finance] %}
+
+{{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
+
+{% endfor %}
+
+
+TEST 2
+
+{% for post in site.categories[physics, finance] %}
+  {% if post.categories contains "physics" or post.categories contains "finance" or post.categories contains "coding" %}
+
+    {{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
+
+  {% endif %}
+{% endfor %}
+
+
+TEST 3
 
 <div class="posts">
 
-  {% for post in site.categories[physics, finance] %}
+  {% for post in site.categories[physics,] %}
 
   <div class="post">
 
@@ -54,3 +74,12 @@ TEST
   </div>
   {% endfor %}
 </div>
+
+
+TEST 4
+
+{% for post in site.categories.[physics, finance] %}
+
+{{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
+
+{% endfor %}
