@@ -7,7 +7,7 @@ Through reading “The Physics of Wall Street” by James Weatherall, I was firs
 
 I intend to harness the analytical skills from my Physics degree and technical skills from self-teaching Python to understand market behaviour on a deeper level. An exploration into predicting the unpredictable.
 
-<h2>Finance</h2>
+-----
 
 {% for post in site.categories[finance, ] %}
 

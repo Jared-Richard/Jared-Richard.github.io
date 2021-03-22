@@ -3,7 +3,7 @@ layout: page
 title: "Physics"
 ---
 
-<h2>Physics</h2>
+-----
 
 {% for post in site.categories[physics, ] %}
 
