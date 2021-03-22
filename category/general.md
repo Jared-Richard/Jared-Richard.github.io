@@ -1,9 +1,16 @@
 ---
-layout: category
-title: "Category: General"
-category: general
+layout: page
+title: "General"
 ---
 
-During winters I train for cross-country and in summers I’m on the track for 400m and 800m. Consistent training over several years with Harrow Athletics Club has given me the opportunity to represent them at the 2018 National Cross-Country Championships and the 2018 Harrow Half Marathon. I have now extended my training to cycling and swimming in preparation for forthcoming triathlons.
+-----
 
-<h1>Races:</h1>
+{% for post in site.categories[general, ] %}
+
+{{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
+
+{% endfor %}
+
+<!-- During winters I train for cross-country and in summers I’m on the track for 400m and 800m. Consistent training over several years with Harrow Athletics Club has given me the opportunity to represent them at the 2018 National Cross-Country Championships and the 2018 Harrow Half Marathon. I have now extended my training to cycling and swimming in preparation for forthcoming triathlons.
+
+<h1>Races:</h1> -->
