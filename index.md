@@ -14,3 +14,17 @@ You've reached my academic website. Check out some of the <a href="{{ site.url }
 Thank you for your visit and I hope you enjoy your stay.
 
 <!-- >semper discens - *always learning* -->
+
+{% for post in paginator.posts %}
+
+{{ post.title }}
+
+{{ post.date | date_to_string }} · {% assign words = post.content | number_of_words %}{{ words | divided_by:200 | at_most:25 }} min read   [ {% capture category_name %}{{ post.category }}{% endcapture %} {{ category_name }} ]
+
+{% if post.content contains "" %} {{ post.content | split:"" | first % }}
+
+Read More...
+
+{% else %} {{ post.content }} {% endif %}
+
+{% endfor %}
