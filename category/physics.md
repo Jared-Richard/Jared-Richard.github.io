@@ -4,15 +4,12 @@ title: "Physics"
 ---
 
 -----
-<div style="text-align:left">
 
 {% for post in site.categories[physics, ] %}
 
 - [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) &middot; {{ post.date | date_to_string }} 
 
 {% endfor %}
-
-</div>
 
 <!-- 
 {% for post in site.categories[physics, ] %}
