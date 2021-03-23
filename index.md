@@ -13,9 +13,9 @@ You've reached my academic website. Check out some of the <a href="{{ site.url }
 
 Thank you for your visit and I hope you enjoy your stay.
 
-<!-- >semper discens - *always learning* -->
+<h2>Recent Posts</h2>
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 
 {{ post.title }}
 
