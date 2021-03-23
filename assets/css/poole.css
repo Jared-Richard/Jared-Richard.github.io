@@ -81,8 +81,8 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  color: #0e0228;
-  margin-bottom: .5rem;
+  color: #262626;
+  margin-bottom: 1rem;
   font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
@@ -337,7 +337,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color:#0e0228;
+  color:#262626;
   text-align: left;
 }
 .page-title,

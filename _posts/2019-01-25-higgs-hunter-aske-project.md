@@ -14,9 +14,9 @@ Through rigorous analysis and finding substantial evidence for its existence, my
 
 <!-- more -->
 
-Here is [my thesis]{{ site.baseurl}}/documents/aske-project.pdf
+Here is [my thesis]({{ site.baseurl }}/documents/aske-project.pdf)
 
-Here is my [my 'Higgs Hunter' poster]{{ site.baseurl}}/documents/higgs-hunter-poster.pdf
+Here is [my 'Higgs Hunter' poster]({{ site.url }}/documents/higgs-hunter-poster.pdf)
 
 My speech at the annual <em>Aske Project Celebration Assembly</em>:
 
