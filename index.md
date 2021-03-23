@@ -5,7 +5,7 @@ title: Home
 
 <h1>Welcome</h1>
 
-<p></p>
+-----
 
 My name is <a href="{{ site.url }}/about">Jared Richard</a>, a Physics Undergraduate at the University of Oxford. 
 
@@ -19,6 +19,6 @@ Thank you for your visit and I hope you enjoy your stay.
 
 {% for post in site.posts limit:3 %}
 
-- [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » {{ post.date | date_to_string }}
+{{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
 
 {% endfor %}
