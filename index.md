@@ -13,18 +13,12 @@ You've reached my academic website. Check out some of the <a href="{{ site.url }
 
 Thank you for your visit and I hope you enjoy your stay.
 
+-----
+
 <h2>Recent Posts</h2>
 
-{% for post in site.posts %}
+{% for post in site.posts limit:3 %}
 
-{{ post.title }}
-
-{{ post.date | date_to_string }} · {% assign words = post.content | number_of_words %}{{ words | divided_by:200 | at_most:25 }} min read   [ {% capture category_name %}{{ post.category }}{% endcapture %} {{ category_name }} ]
-
-{% if post.content contains "" %} {{ post.content | split:"" | first % }}
-
-Read More...
-
-{% else %} {{ post.content }} {% endif %}
+- [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » {{ post.date | date_to_string }}
 
 {% endfor %}
