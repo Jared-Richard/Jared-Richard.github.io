@@ -7,7 +7,8 @@ title: "Physics"
 
 {% for post in site.categories[physics, ] %}
 
-{{ post.date | date_to_string }} » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
+- [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
+&emsp; {{ post.date | date_to_string }} 
 
 {% endfor %}
 
