@@ -26,7 +26,7 @@ Before presenting my project at the celebration assembly, I sat a viva examinati
 
 ![Viva Comments](/assets/images/aske-viva-comments.png){:class="img-responsive"}
 
-![Viva comments 2](/assets/images/aske-viva-recording.jpg)
+![Viva comments 2](/assets/images/viva-project-recording.jpg)
 {:class="img-responsive"}
 
 Final report on my project:
