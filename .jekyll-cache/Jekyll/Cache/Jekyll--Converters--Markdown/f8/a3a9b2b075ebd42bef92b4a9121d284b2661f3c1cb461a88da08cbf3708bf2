@@ -1,16 +1,10 @@
----
-layout: page
-title: "General"
----
+I"�<hr />
 
------
+<p>01 Feb 2021 » <a href="https://jaredrichard.co.uk/general/2021/02/01/future-leaders-magazine/"> <strong>Top 150 Future Leaders - Magazine Feature</strong> </a></p>
 
-{% for post in site.categories[general, ] %}
-
-{{ post.date | date_to_string }} » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
-
-{% endfor %}
+<p>27 May 2020 » <a href="https://jaredrichard.co.uk/general/2020/05/27/tips-for-oxford/"> <strong>Tips for applying to Oxford University</strong> </a></p>
 
 <!-- During winters I train for cross-country and in summers I’m on the track for 400m and 800m. Consistent training over several years with Harrow Athletics Club has given me the opportunity to represent them at the 2018 National Cross-Country Championships and the 2018 Harrow Half Marathon. I have now extended my training to cycling and swimming in preparation for forthcoming triathlons.
 
 <h1>Races:</h1> -->
+:ET

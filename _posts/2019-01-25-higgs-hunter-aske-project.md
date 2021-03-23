@@ -8,15 +8,15 @@ At age 16, I completed a 6-month independent research project into the potential
 
 <!-- more -->
 
- This work, in conjunction with Oxford University and CERN, was completed alongside my A-level studies. 
+ This work, in collaboration with Oxford University and CERN, was completed alongside my A-level studies. 
 
-Through rigorous analysis and finding substantial evidence for its existence, my research was awarded a Distinction, selected as a winner of the *Oxford Physics “Higgs Hunters” 2019 Research Competition* and also won First Prize for the annual *Haberdashers’ Aske’s Research Project Competition*, selected as 1st from over 150 entries. 
+Through rigorous analysis and finding substantial evidence for its existence, my research was awarded a Distinction, selected as a winner of the *Oxford Physics “Higgs Hunters” 2019 Research Competition* and awarded First Prize for the annual *Haberdashers’ Aske’s Research Project Competition*, selected as 1st from over 150 entries. 
 
 <!-- more -->
 
-Here is [my thesis]({{ site.baseurl }}/documents/aske-project.pdf)
+Here is [My Research Project]({{ site.baseurl }}/documents/aske-project.pdf).
 
-Here is [my 'Higgs Hunter' poster]({{ site.url }}/documents/higgs-hunter-poster.pdf)
+Here is [My 'Higgs Hunter' Poster]({{ site.url }}/documents/higgs-hunter-poster.pdf)
 
 My speech at the annual <em>Aske Project Celebration Assembly</em>:
 
