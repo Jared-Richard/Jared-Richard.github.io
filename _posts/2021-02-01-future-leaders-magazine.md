@@ -18,11 +18,13 @@ The magazine also features an article I wrote about the importance of mentoring 
 
 That is how we progress as a race. By thinking bigger than ourselves, by appreciating the importance of offering to someone younger what you potentially may have not had yourself, by leading them forward and nurturing their unwavering focus and passion to guide it into a place of unprecedented achievement."
 
- <a href="https://www.flipsnack.com/FutureLeaders/future-leaders-2020-21.html" target="_blank">Top 150 Future Leaders Magazine - 2020/21 Edition</a>
+ Here is the magazine - <a href="https://www.flipsnack.com/FutureLeaders/future-leaders-2020-21.html" target="_blank">Top 150 Future Leaders Magazine - 2020/21 Edition</a>
+
+ ![future leader pic 1](/assets/images/future-leaders-oxford.jpg){:class="img-responsive"}
 
  Thank you to Adenike Adenitire and the team at Powerlist Magazine for organising such an empowering celebration event this week, featuring the likes of: Femi Oguns, J.P. Morgan, Latham & Watkins and Royal Air Force (RAF).
 
- My article entitled **"Teach One to Reach One..."**:
+ My article entitled *"Teach One to Reach One..."*:
 
 *"In August 2017 I was nearing the beginning of my time at sixth-form, eager and keen to make an impact in this next phase of my life. My flourishing interest in physics at the time was the perfect catalyst for focus and provided a productive avenue to channel my efforts to learn and explore. I distinctively remember approaching my physics teacher excited about the prospect of joining the school Physics society, only to be told that one didn’t exist and never had. After a period of disappointment, I took it upon myself to reach back out to the teacher. “Would it be possible to launch my own society?”. At first, he was hesitant of its potential success, but he did agree it was possible if I put in the time, effort and consistency.*
 
