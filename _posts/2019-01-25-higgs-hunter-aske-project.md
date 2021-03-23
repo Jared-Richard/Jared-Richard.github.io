@@ -14,7 +14,9 @@ Through rigorous analysis and finding substantial evidence for its existence, my
 
 <!-- more -->
 
-Here is my thesis:
+Here is [my thesis]{{ site.baseurl}}/documents/aske-project.pdf
+
+Here is my [my 'Higgs Hunter' poster]{{ site.baseurl}}/documents/higgs-hunter-poster.pdf
 
 My speech at the annual <em>Aske Project Celebration Assembly</em>:
 
@@ -23,6 +25,9 @@ My speech at the annual <em>Aske Project Celebration Assembly</em>:
 Before presenting my project at the celebration assembly, I sat a viva examination with an external Physics professor to discuss the scope of my project. Below are his comments:
 
 ![Viva Comments](/assets/images/aske-viva-comments.png){:class="img-responsive"}
+
+![Viva comments 2](/assets/images/aske-viva-recording.jpg)
+{:class="img-responsive"}
 
 Final report on my project:
 

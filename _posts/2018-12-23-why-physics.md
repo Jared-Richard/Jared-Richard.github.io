@@ -8,7 +8,7 @@ I never particularly liked Physics. All through my time at school. This was up u
 
 <!-- more -->
 
-Christopher Nolan’s interpretation of the blend between science and love instantly captivated me, and it was my first introduction to black holes, relativity, and time dilation.
+Christopher Nolan’s interpretation of the blend between science and love instantly captivated me and was my first introduction to black holes, relativity, and time dilation.
 
 <!-- more -->
 
