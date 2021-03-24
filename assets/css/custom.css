@@ -87,6 +87,7 @@ a {
 
 @media (max-width: 48rem) {
   .container {
+    font-size: 18px;
     padding-left:  3rem;
     padding-right: 3rem;
     margin-left:  auto;
