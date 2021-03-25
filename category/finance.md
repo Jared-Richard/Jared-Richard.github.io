@@ -9,7 +9,7 @@ I intend to harness the analytical skills from my Physics degree and technical s
 
 -----
 
-{% for post in site.categories[finance, ] %}
+{% for post in site.categories[ finance ] %}
 
 {{ post.date | date_to_string }} » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
 

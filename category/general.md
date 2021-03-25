@@ -5,7 +5,7 @@ title: "General"
 
 -----
 
-{% for post in site.categories[general, ] %}
+{% for post in site.categories[ general ] %}
 
 {{ post.date | date_to_string }} » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
 
