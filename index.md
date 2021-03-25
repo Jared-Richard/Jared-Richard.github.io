@@ -66,3 +66,13 @@ Thank you for your visit and I hope you enjoy your stay.
   {% endfor %}
 
 </div>
+
+
+
+{% for post in site.categories[physics ] %}
+{{ post.title }}
+{{ post.date | date_to_string }} · {% assign words = post.content | number_of_words %}{{ words | divided_by:200 | at_most:25 }} min read
+{% if post.content contains "" %} {{ post.content | split:"" | first }}
+Read More...
+{% else %} {{ post.content }} {% endif %}
+{% endfor %}
