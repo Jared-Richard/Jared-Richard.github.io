@@ -17,27 +17,23 @@ Thank you for your visit and I hope you enjoy your stay.
 
 <h2>Recent Posts</h2>
 
-{% for post in site.posts limit:3 %}
-
-{{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
-
-{% endfor %}
-
-
 -----
 
-projects
+{% for post in site.posts %}
 
-{% for project in site.projects %}
+ [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ]
 
-[ **{{ project.title }}** ]({{ site.url }}{{ project.url }}) » [{% capture category_name %}{{ project.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ]
-
-{% if project.content contains "<!-- more -->" %}
+ {% if project.content contains "<!-- more -->" %}
       {{ project.content | split:"<!-- more -->" | first }}
       <div style="text-align: left;">
         <a href="{{ project.url }}" style="font-weight: bold; color:#383fc7;">Read More...</a>
 {% endif %}
 
 {% endfor %}
+
+-----
+
+projects
+
 
 
