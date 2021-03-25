@@ -24,6 +24,31 @@ Thank you for your visit and I hope you enjoy your stay.
 {% endfor %}
 
 
+-----
+
+{% for post in site.posts %}
+
+[ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ]
+
+{% if post.content contains "<!-- more -->" %}
+      {{ post.content | split:"<!-- more -->" | first }}
+      <div style="text-align: left;">
+        <a href="{{ post.url }}" style="font-weight: bold; color:#383fc7;">Read More...</a>
+{% endif %}
+
+{% endfor %}
+
+
+
+
+
+
+
+
+
+
+<!-- 
+
 <div class="posts">
 
   {% for post in site.posts %}
@@ -52,8 +77,12 @@ Thank you for your visit and I hope you enjoy your stay.
     </div>
 
     <div>
-      {% if post.content contains "<!-- more -->" %}
-      {{ post.content | split:"<!-- more -->" | first % }}
+      {% if post.content contains "<!-- more -->
+<!--       
+      " %}
+      {{ post.content | split:"<!-- more -->
+<!--       
+      " | first % }}
       <div style="text-align: left;">
         <a href="{{ post.url }}" style="font-weight: bold; color:#383fc7;">Read More...</a>
       </div>
@@ -65,7 +94,7 @@ Thank you for your visit and I hope you enjoy your stay.
 
   {% endfor %}
 
-</div>
+</div> -->
 
 
 
