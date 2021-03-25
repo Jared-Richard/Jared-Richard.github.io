@@ -24,11 +24,9 @@ Thank you for your visit and I hope you enjoy your stay.
  [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ]
 
  <!-- Excerpt -->
-
- {% if post.content contains "<!-- more -->" %}
-      {{ post.content | split:"<!-- more -->" | first % }}
-        <a href="{{ post.url }}" style="font-weight: bold; color:#383fc7;">Read More...</a>
-{% endif %}
+ 
+ [ {{ post.content | split:"<!-- more -->" | first % }}
+  <a href="{{ post.url }}" style="font-weight: bold; color:#383fc7;">Read More...</a> ]
 
 {% endfor %}
 
