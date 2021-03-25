@@ -11,10 +11,19 @@ title: "Physics"
 
 {% endfor %}
 
-<!-- 
+
 {% for post in site.categories[physics, ] %}
 
-{{ post.date | date_to_string }} » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ] » [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) 
+[ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) » 
+[{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ]
 
 {% endfor %}
- -->
+
+
+{{ post.title }}
+{{ post.date | date_to_string }} · {% assign words = post.content | number_of_words %}{{ words | divided_by:200 | at_most:25 }} min read   [ {% capture category_name %}{{ post.category }}{% endcapture %} {{ category_name }} ]
+{% if post.content contains "" %} {{ post.content | split:"" | first % }}
+Read More...
+{% else %} {{ post.content }} {% endif %}
+{% endfor %}
+{% if paginator.next_page %} Older {% else %} Older {% endif %} {% if paginator.previous_page %} {% if paginator.page == 2 %} Newer {% else %} Newer {% endif %} {% else %} Newer {% endif %}
