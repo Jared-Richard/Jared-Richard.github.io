@@ -4,6 +4,10 @@ title: Tips for applying to Oxford University
 category: general
 ---
 
-{% include youtubePlayer.html id="s6U0Ynqjyu0" %}
+Some tips for applying to Oxford University. (A video I created for the Oxbridge Symposium at my Sixth Form)
 
 <!-- more -->
+
+{% include youtubePlayer.html id="s6U0Ynqjyu0" %}
+
+

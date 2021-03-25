@@ -4,7 +4,7 @@ title: Oxford Alpha Fund Stock Pitch Competition
 category: finance
 ---
 
-Stock Pitch for Lululemon as part of the Oxford Alpha Fund Stock Pitch Competition.
+A Stock Pitch for Lululemon as part of the Oxford Alpha Fund Stock Pitch Competition.
 
 <!-- more -->
 
