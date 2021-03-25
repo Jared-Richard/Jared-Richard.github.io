@@ -31,7 +31,7 @@ Thank you for your visit and I hope you enjoy your stay.
 [ **{{ post.title }}** ]({{ site.url }}{{ post.url }}) » [{% capture category_name %}{{ post.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ]
 
 {% if post.content contains "<!-- more -->" %}
-      {{ post.content | split:"<!-- more -->" | first }}
+      {{ post.content | split:"<!-- more -->" | first % }}
       <div style="text-align: left;">
         <a href="{{ post.url }}" style="font-weight: bold; color:#383fc7;">Read More...</a>
 {% endif %}
@@ -97,11 +97,11 @@ Thank you for your visit and I hope you enjoy your stay.
 </div> -->
 
 
-
+<!-- 
 {% for post in site.categories[physics ] %}
 {{ post.title }}
 {{ post.date | date_to_string }} · {% assign words = post.content | number_of_words %}{{ words | divided_by:200 | at_most:25 }} min read
 {% if post.content contains "" %} {{ post.content | split:"" | first }}
 Read More...
 {% else %} {{ post.content }} {% endif %}
-{% endfor %}
+{% endfor %} -->
