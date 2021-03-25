@@ -31,6 +31,20 @@ Thank you for your visit and I hope you enjoy your stay.
 
 {% endfor %}
 
+projects
+
+-----
+
+{% for project in site.projects %}
+
+[ **{{ **project.title** }}** ]({{ site.url }}{{ project.url }}) » [{% capture category_name %}{{ project.category }}{% endcapture %} <a href="/category/{{ category_name }}">{{ category_name }}</a> ]
+
+<!-- Excerpt -->
+
+{{ project.content | split:"<!-- more -->" | first }}
+
+-----
+
 
 
 
