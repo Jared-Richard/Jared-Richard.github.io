@@ -25,8 +25,8 @@ Thank you for your visit and I hope you enjoy your stay.
 
  <!-- Excerpt -->
  
- [ {{ post.content | split:"<!-- more -->" | first % }}
-  <a href="{{ post.url }}" style="font-weight: bold; color:#383fc7;">Read More...</a> ]
+ {{ post.content | split:"<!-- more -->" | first }}
+  <a href="{{ post.url }}" style="font-weight: bold; color:#383fc7;">Read More...</a>
 
 {% endfor %}
 
